@@ -1,7 +1,7 @@
 # Easy SharedPreference
 
-So easy to use. for lazy developer like me :)
-사용하기 쉽습니다. 저 처럼 게으른 개발자를 위한!
+So easy to use. for lazy developer like me
+사용하기 쉽습니다. 저 처럼 게으른 개발자를 위해
 
 
 # Usage
