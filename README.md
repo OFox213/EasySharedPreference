@@ -30,5 +30,3 @@ if(pref().getBoolean(this, "isFirst", false)) { //get named by "isFirst", the de
 
 //if you want to make default value to true, just getBoolean(this, "isFirst", true)
 ```
-
-sorry for my poor english ;p
